@@ -17,4 +17,6 @@ LOGO尚在绘制中。
 
 ## 我们和其他类似组织的关系
 
-暂时不清楚，但应该不是偏序关系
+### [BetterECNU](https://github.com/BetterECNU/)
+
+🤔
