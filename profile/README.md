@@ -14,6 +14,7 @@ LOGO尚在绘制中。
 ## 我们做了什么
 
 [旧闻缓递](https://times.myecnu.org)：整合校内各部门通知公告
+[虚拟排课](https://plus.myecnu.org)：生成虚拟课表供查看
 
 ## 我们和其他类似组织的关系
 
